@@ -10,15 +10,15 @@
 
 <p align="left"> <a href="https://twitter.com/@1110_shanu" target="blank"><img src="https://img.shields.io/twitter/follow/@1110_shanu?logo=twitter&style=for-the-badge" alt="@1110_shanu" /></a> </p>
 
-- 🔭 I’m currently working on **VLSI and Machine learning**
+- 🔭 I’m currently working on **Data Analytics and IoT with AI**
 
 - 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **Electronics project**
 
-- 🤝 I’m looking for help with **VLSI**
+- 🤝 I’m looking for help with **Data Analytics and Data science**
 
-- 💬 Ask me about **Matlab,CPP**
+- 💬 Ask me about **Python,R,Matlab,CPP**
 
 - 📫 How to reach me **Shanukr44150@gmail.com**
 
