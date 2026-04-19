@@ -1,8 +1,7 @@
-[![MasterHead](https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376
-)](https://xcriminal.io)
+
 
 <h1 align="center">Hi 👋, I'm Shanu Kumar Manglam</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">Focusing On Gen Ai and Data Science domain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanu1110&label=Profile%20views&color=0e75b6&style=flat" alt="shanu1110" /> </p>
 
@@ -10,15 +9,15 @@
 
 <p align="left"> <a href="https://twitter.com/@1110_shanu" target="blank"><img src="https://img.shields.io/twitter/follow/@1110_shanu?logo=twitter&style=for-the-badge" alt="@1110_shanu" /></a> </p>
 
-- 🔭 I’m currently working on **Data Analytics and IoT with AI**
+- 🔭 I’m currently working on **Analysis and Gen AI**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Adobe Analytics, Google Analytics 4, Google Tag Manager, Looker Studio, Tealium, Adobe Target**
 
-- 👯 I’m looking to collaborate on **Electronics project**
+- 👯 I’m looking to collaborate on **Gen AI project**
 
-- 🤝 I’m looking for help with **Data Analytics and Data science**
+- 🤝 I’m looking for help with **Gen AI and Data science**
 
-- 💬 Ask me about **Python,R,Matlab,CPP**
+- 💬 Ask me about **Python, Marketing Analyst related tools**
 
 - 📫 How to reach me **Shanukr44150@gmail.com**
 
